@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>637864957362-ffb8rk050kaknjcvvif5ih6pk2ime6r1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.637864957362-ffb8rk050kaknjcvvif5ih6pk2ime6r1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3O1ZaD_A-bYjhTbLkYOJpYZb4G-Fgqww</string>
+	<key>GCM_SENDER_ID</key>
+	<string>637864957362</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>venom</string>
+	<key>PROJECT_ID</key>
+	<string>facerecognition-d206c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facerecognition-d206c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:637864957362:ios:04e163f931e445f7cb00ab</string>
+</dict>
+</plist>
